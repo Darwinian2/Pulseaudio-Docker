@@ -1,5 +1,5 @@
 FROM ubuntu:latest
-MAINTAINER Edward Bryan Cox <edward.cox@meetupcall.com>
+MAINTAINER Edward Bryan Cox <edwardbcox@gmail.com>
 
 ENV UNAME pacat
 
